@@ -323,5 +323,6 @@ var msg;
         footer: {
 
         }
-      }}).then(msg => {msg.delete(3000)});
+      }}).then(msg => {msg.delete(3000)})
+});
 	 
